@@ -1,0 +1,33 @@
+:root {
+
+  /*
+  ***********************************
+  *        Main Colors              *
+  ***********************************
+  */
+
+  --main-navbar-background-color: #008000; /*#8B008B*/
+  --main-footer-background-color: #008000;/*#8C33FF*/
+  --login-button: #e74c3c;
+
+
+  /*
+  ***********************************
+  *        Modal Colors             *
+  ***********************************
+  */
+
+  --modal-server-info-background-color: #fff;
+  --modal-server-info-text-color: #000;
+
+  --modal-server-info-copy-button-border: 0px;
+  --modal-server-info-copy-button-border-color: #008000;
+  --modal-server-info-copy-button-background-color: #008000;
+  --modal-server-info-copy-button-text-color: #fff;
+
+
+  --modal-server-info-close-button-border: 2px;
+  --modal-server-info-close-button-border-color: #008000;
+  --modal-server-info-close-button-background-color: transparent;
+  --modal-server-info-close-button-text-color: #008000;
+}
